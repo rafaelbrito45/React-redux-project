@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Yvonne O'Hara",
+      "id": 2
+    },
+    {
+      "name": "Eleanor Crooks",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "hiking trip",
+      "userId": 1
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6067468040667136",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/640/480?lock=5489365981593600",
+      "id": 3
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/640/480?lock=1666032326410240",
+      "id": 4
+    }
+  ]
+}
